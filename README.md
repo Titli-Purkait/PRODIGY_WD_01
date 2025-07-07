@@ -42,7 +42,7 @@ This task helped me strengthen my skills in:
 
 ## 🔗 Live Demo
 
-[Click here to view live 🔗](#) *(Update this with your GitHub Pages link)*
+[Click here to view live 🔗](#) *(https://titli-purkait.github.io/PRODIGY_WD_01/)*
 
 
 ## ✅ Internship Details
